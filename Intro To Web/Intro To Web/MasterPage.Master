@@ -1,0 +1,37 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="Intro_To_Web.MasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <%--<link href="CSS/Style.css" rel="stylesheet"  type="text/css"/>--%>
+    <link href="CSS/Style.css" rel="stylesheet" />
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="Wrapper">
+            <div class="header">
+
+                <centre>
+                    <h1>Header of new Website
+                    </h1>
+                </centre>
+            </div>
+            <div class="mainContent">
+
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+
+            <div>
+                <centre>
+                    <h4>All Right Reserved &copy; 2023 </h4>
+                </centre>
+            </div>
+        </div>
+    </form>
+</body>
+</html>

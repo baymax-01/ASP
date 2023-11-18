@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoIncrementValue_ASP", "AutoIncrementValue_ASP\AutoIncrementValue_ASP.csproj", "{ECB921C3-CC4C-46DA-B0B6-C09740D72575}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECB921C3-CC4C-46DA-B0B6-C09740D72575}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECB921C3-CC4C-46DA-B0B6-C09740D72575}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECB921C3-CC4C-46DA-B0B6-C09740D72575}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECB921C3-CC4C-46DA-B0B6-C09740D72575}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFC78AC5-0B6B-423C-8BDB-FF9B0F80BE99}
+	EndGlobalSection
+EndGlobal

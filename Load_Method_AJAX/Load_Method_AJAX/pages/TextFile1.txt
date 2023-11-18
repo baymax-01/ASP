@@ -1,0 +1,2 @@
+﻿My Name is Mutayyab Imran 
+Welcome To Load Method Of JQuery AJAX
